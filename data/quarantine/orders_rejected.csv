@@ -1,0 +1,4 @@
+order_id,customer_id,restaurant_id,partner_id,order_amount,order_status,order_date,ingestion_timestamp,rejection_reason
+1001,144,29,21,-100.0,Delivered,2026-10-16,2026-11-21 10:13:49.799026+00:00,Invalid order amount
+1002,69,6,99,-100.0,Delivered,2026-05-21,2026-11-21 10:13:49.799026+00:00,Invalid order amount
+1003,99,32,13,-100.0,Pending,2026-05-26,2026-11-21 10:13:49.799026+00:00,Invalid order amount

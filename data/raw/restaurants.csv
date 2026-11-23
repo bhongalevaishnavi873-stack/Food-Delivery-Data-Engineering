@@ -1,0 +1,51 @@
+restaurant_id,restaurant_name,city,cuisine
+1,Restaurant_1,Nagpur,Chinese
+2,Restaurant_2,Nagpur,Chinese
+3,Restaurant_3,Pune,Chinese
+4,Restaurant_4,Nagpur,Chinese
+5,Restaurant_5,Nashik,Indian
+6,Restaurant_6,Indore,Fast Food
+7,Restaurant_7,Pune,Chinese
+8,Restaurant_8,Indore,Chinese
+9,Restaurant_9,Nagpur,Italian
+10,Restaurant_10,Nagpur,Chinese
+11,Restaurant_11,Pune,Italian
+12,Restaurant_12,Nashik,Fast Food
+13,Restaurant_13,Mumbai,Indian
+14,Restaurant_14,Pune,Indian
+15,Restaurant_15,Mumbai,Fast Food
+16,Restaurant_16,Mumbai,Indian
+17,Restaurant_17,Nashik,Fast Food
+18,Restaurant_18,Mumbai,Fast Food
+19,Restaurant_19,Mumbai,Fast Food
+20,Restaurant_20,Nashik,Indian
+21,Restaurant_21,Mumbai,Italian
+22,Restaurant_22,Mumbai,Fast Food
+23,Restaurant_23,Mumbai,Chinese
+24,Restaurant_24,Pune,Indian
+25,Restaurant_25,Pune,Fast Food
+26,Restaurant_26,Pune,Fast Food
+27,Restaurant_27,Nashik,Chinese
+28,Restaurant_28,Nagpur,Italian
+29,Restaurant_29,Mumbai,Italian
+30,Restaurant_30,Mumbai,Italian
+31,Restaurant_31,Nashik,Fast Food
+32,Restaurant_32,Mumbai,Fast Food
+33,Restaurant_33,Pune,Fast Food
+34,Restaurant_34,Nagpur,Indian
+35,Restaurant_35,Indore,Chinese
+36,Restaurant_36,Mumbai,Fast Food
+37,Restaurant_37,Pune,Chinese
+38,Restaurant_38,Indore,Chinese
+39,Restaurant_39,Nagpur,Italian
+40,Restaurant_40,Indore,Indian
+41,Restaurant_41,Pune,Fast Food
+42,Restaurant_42,Indore,Italian
+43,Restaurant_43,Nashik,Italian
+44,Restaurant_44,Indore,Fast Food
+45,Restaurant_45,Mumbai,Chinese
+46,Restaurant_46,Mumbai,Italian
+47,Restaurant_47,Nashik,Chinese
+48,Restaurant_48,Pune,Indian
+49,Restaurant_49,Mumbai,Chinese
+50,Restaurant_50,Nagpur,Indian

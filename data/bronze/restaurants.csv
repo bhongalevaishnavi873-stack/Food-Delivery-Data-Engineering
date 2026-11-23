@@ -1,0 +1,51 @@
+restaurant_id,restaurant_name,city,cuisine,ingestion_timestamp
+1,Restaurant_1,Nagpur,Chinese,2026-11-21T10:13:49.786515+00:00
+2,Restaurant_2,Nagpur,Chinese,2026-11-21T10:13:49.786515+00:00
+3,Restaurant_3,Pune,Chinese,2026-11-21T10:13:49.786515+00:00
+4,Restaurant_4,Nagpur,Chinese,2026-11-21T10:13:49.786515+00:00
+5,Restaurant_5,Nashik,Indian,2026-11-21T10:13:49.786515+00:00
+6,Restaurant_6,Indore,Fast Food,2026-11-21T10:13:49.786515+00:00
+7,Restaurant_7,Pune,Chinese,2026-11-21T10:13:49.786515+00:00
+8,Restaurant_8,Indore,Chinese,2026-11-21T10:13:49.786515+00:00
+9,Restaurant_9,Nagpur,Italian,2026-11-21T10:13:49.786515+00:00
+10,Restaurant_10,Nagpur,Chinese,2026-11-21T10:13:49.786515+00:00
+11,Restaurant_11,Pune,Italian,2026-11-21T10:13:49.786515+00:00
+12,Restaurant_12,Nashik,Fast Food,2026-11-21T10:13:49.786515+00:00
+13,Restaurant_13,Mumbai,Indian,2026-11-21T10:13:49.786515+00:00
+14,Restaurant_14,Pune,Indian,2026-11-21T10:13:49.786515+00:00
+15,Restaurant_15,Mumbai,Fast Food,2026-11-21T10:13:49.786515+00:00
+16,Restaurant_16,Mumbai,Indian,2026-11-21T10:13:49.786515+00:00
+17,Restaurant_17,Nashik,Fast Food,2026-11-21T10:13:49.786515+00:00
+18,Restaurant_18,Mumbai,Fast Food,2026-11-21T10:13:49.786515+00:00
+19,Restaurant_19,Mumbai,Fast Food,2026-11-21T10:13:49.786515+00:00
+20,Restaurant_20,Nashik,Indian,2026-11-21T10:13:49.786515+00:00
+21,Restaurant_21,Mumbai,Italian,2026-11-21T10:13:49.786515+00:00
+22,Restaurant_22,Mumbai,Fast Food,2026-11-21T10:13:49.786515+00:00
+23,Restaurant_23,Mumbai,Chinese,2026-11-21T10:13:49.786515+00:00
+24,Restaurant_24,Pune,Indian,2026-11-21T10:13:49.786515+00:00
+25,Restaurant_25,Pune,Fast Food,2026-11-21T10:13:49.786515+00:00
+26,Restaurant_26,Pune,Fast Food,2026-11-21T10:13:49.786515+00:00
+27,Restaurant_27,Nashik,Chinese,2026-11-21T10:13:49.786515+00:00
+28,Restaurant_28,Nagpur,Italian,2026-11-21T10:13:49.786515+00:00
+29,Restaurant_29,Mumbai,Italian,2026-11-21T10:13:49.786515+00:00
+30,Restaurant_30,Mumbai,Italian,2026-11-21T10:13:49.786515+00:00
+31,Restaurant_31,Nashik,Fast Food,2026-11-21T10:13:49.786515+00:00
+32,Restaurant_32,Mumbai,Fast Food,2026-11-21T10:13:49.786515+00:00
+33,Restaurant_33,Pune,Fast Food,2026-11-21T10:13:49.786515+00:00
+34,Restaurant_34,Nagpur,Indian,2026-11-21T10:13:49.786515+00:00
+35,Restaurant_35,Indore,Chinese,2026-11-21T10:13:49.786515+00:00
+36,Restaurant_36,Mumbai,Fast Food,2026-11-21T10:13:49.786515+00:00
+37,Restaurant_37,Pune,Chinese,2026-11-21T10:13:49.786515+00:00
+38,Restaurant_38,Indore,Chinese,2026-11-21T10:13:49.786515+00:00
+39,Restaurant_39,Nagpur,Italian,2026-11-21T10:13:49.786515+00:00
+40,Restaurant_40,Indore,Indian,2026-11-21T10:13:49.786515+00:00
+41,Restaurant_41,Pune,Fast Food,2026-11-21T10:13:49.786515+00:00
+42,Restaurant_42,Indore,Italian,2026-11-21T10:13:49.786515+00:00
+43,Restaurant_43,Nashik,Italian,2026-11-21T10:13:49.786515+00:00
+44,Restaurant_44,Indore,Fast Food,2026-11-21T10:13:49.786515+00:00
+45,Restaurant_45,Mumbai,Chinese,2026-11-21T10:13:49.786515+00:00
+46,Restaurant_46,Mumbai,Italian,2026-11-21T10:13:49.786515+00:00
+47,Restaurant_47,Nashik,Chinese,2026-11-21T10:13:49.786515+00:00
+48,Restaurant_48,Pune,Indian,2026-11-21T10:13:49.786515+00:00
+49,Restaurant_49,Mumbai,Chinese,2026-11-21T10:13:49.786515+00:00
+50,Restaurant_50,Nagpur,Indian,2026-11-21T10:13:49.786515+00:00

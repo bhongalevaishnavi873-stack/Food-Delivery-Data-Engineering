@@ -1,0 +1,1501 @@
+payment_id,order_id,payment_mode,payment_amount,payment_status
+5001,1001,Cash,970.81,Success
+5002,1002,Cash,767.32,Failed
+5003,1003,Debit Card,278.18,Success
+5004,1004,Debit Card,1023.65,Success
+5005,1005,UPI,1849.41,Success
+5006,1006,Credit Card,176.11,Success
+5007,1007,Debit Card,653.78,Success
+5008,1008,Cash,494.33,Success
+5009,1009,Debit Card,552.48,Success
+5010,1010,Debit Card,1826.03,Success
+5011,1011,Credit Card,989.33,Success
+5012,1012,Debit Card,985.97,Success
+5013,1013,UPI,1545.09,Success
+5014,1014,Cash,393.54,Success
+5015,1015,Credit Card,1025.8,Success
+5016,1016,Cash,916.97,Success
+5017,1017,UPI,1234.13,Success
+5018,1018,UPI,1999.16,Success
+5019,1019,Debit Card,1561.95,Success
+5020,1020,Debit Card,855.94,Failed
+5021,1021,Debit Card,1672.35,Success
+5022,1022,Cash,424.35,Success
+5023,1023,UPI,157.88,Success
+5024,1024,Credit Card,488.45,Success
+5025,1025,Debit Card,746.78,Success
+5026,1026,Cash,1070.1,Success
+5027,1027,Debit Card,1268.75,Failed
+5028,1028,UPI,1830.15,Success
+5029,1029,Credit Card,1068.72,Failed
+5030,1030,UPI,1052.42,Success
+5031,1031,Cash,195.46,Success
+5032,1032,Debit Card,166.33,Success
+5033,1033,UPI,1147.2,Failed
+5034,1034,Cash,932.54,Success
+5035,1035,Debit Card,1694.44,Success
+5036,1036,Credit Card,405.29,Success
+5037,1037,UPI,147.45,Success
+5038,1038,Debit Card,953.17,Success
+5039,1039,Debit Card,551.21,Success
+5040,1040,Debit Card,194.27,Success
+5041,1041,Debit Card,1476.74,Success
+5042,1042,UPI,312.03,Success
+5043,1043,Debit Card,1255.81,Success
+5044,1044,Cash,633.99,Success
+5045,1045,UPI,429.64,Success
+5046,1046,Debit Card,821.53,Success
+5047,1047,UPI,1622.75,Success
+5048,1048,Cash,844.98,Success
+5049,1049,Cash,1526.46,Failed
+5050,1050,UPI,338.42,Failed
+5051,1051,Debit Card,1568.27,Success
+5052,1052,Debit Card,550.17,Success
+5053,1053,Cash,1387.05,Success
+5054,1054,Debit Card,1174.98,Success
+5055,1055,Cash,1865.37,Success
+5056,1056,Debit Card,835.91,Success
+5057,1057,Cash,225.71,Success
+5058,1058,Credit Card,136.4,Success
+5059,1059,Debit Card,1671.03,Success
+5060,1060,Debit Card,1097.0,Success
+5061,1061,Debit Card,1572.96,Success
+5062,1062,UPI,545.41,Success
+5063,1063,Debit Card,755.66,Success
+5064,1064,UPI,157.2,Success
+5065,1065,UPI,1926.84,Success
+5066,1066,Cash,1368.95,Success
+5067,1067,UPI,1873.09,Success
+5068,1068,UPI,604.44,Success
+5069,1069,Credit Card,1261.78,Success
+5070,1070,Debit Card,1389.15,Success
+5071,1071,UPI,703.34,Success
+5072,1072,Debit Card,1711.41,Success
+5073,1073,UPI,1899.61,Success
+5074,1074,Cash,1781.22,Success
+5075,1075,Credit Card,1504.23,Success
+5076,1076,UPI,627.18,Success
+5077,1077,Debit Card,635.07,Success
+5078,1078,Cash,1930.38,Success
+5079,1079,Debit Card,119.54,Success
+5080,1080,Cash,1460.49,Success
+5081,1081,Credit Card,1441.87,Success
+5082,1082,Cash,1283.11,Success
+5083,1083,Debit Card,1981.21,Success
+5084,1084,Debit Card,692.57,Success
+5085,1085,UPI,745.95,Success
+5086,1086,Cash,249.98,Success
+5087,1087,Debit Card,941.32,Success
+5088,1088,UPI,595.99,Success
+5089,1089,Credit Card,752.43,Success
+5090,1090,Debit Card,1685.69,Success
+5091,1091,UPI,1877.42,Success
+5092,1092,Debit Card,452.89,Success
+5093,1093,Cash,807.77,Success
+5094,1094,UPI,1864.4,Success
+5095,1095,Cash,217.44,Success
+5096,1096,Credit Card,275.49,Success
+5097,1097,Cash,409.3,Success
+5098,1098,UPI,1230.9,Success
+5099,1099,Debit Card,385.9,Success
+5100,1100,UPI,1939.35,Success
+5101,1101,Cash,948.76,Success
+5102,1102,Cash,1052.88,Failed
+5103,1103,Debit Card,568.65,Success
+5104,1104,Credit Card,994.82,Success
+5105,1105,UPI,1357.64,Success
+5106,1106,Debit Card,1527.24,Success
+5107,1107,Debit Card,1532.35,Success
+5108,1108,Debit Card,1197.99,Success
+5109,1109,UPI,1818.28,Success
+5110,1110,UPI,1653.07,Success
+5111,1111,UPI,1538.39,Success
+5112,1112,Credit Card,205.65,Success
+5113,1113,Debit Card,113.07,Success
+5114,1114,Cash,503.65,Success
+5115,1115,Cash,1360.69,Success
+5116,1116,Debit Card,881.28,Success
+5117,1117,Cash,864.57,Success
+5118,1118,Credit Card,1780.72,Success
+5119,1119,Credit Card,1801.57,Success
+5120,1120,UPI,1827.43,Success
+5121,1121,UPI,696.37,Success
+5122,1122,UPI,1413.01,Success
+5123,1123,UPI,616.1,Success
+5124,1124,UPI,462.16,Success
+5125,1125,Cash,450.8,Success
+5126,1126,Cash,750.0,Success
+5127,1127,UPI,916.92,Success
+5128,1128,Credit Card,1678.8,Success
+5129,1129,Cash,327.79,Success
+5130,1130,Credit Card,1496.36,Success
+5131,1131,Credit Card,1109.76,Success
+5132,1132,Debit Card,647.1,Success
+5133,1133,Debit Card,1036.36,Success
+5134,1134,UPI,669.89,Success
+5135,1135,Credit Card,1232.56,Success
+5136,1136,Cash,924.3,Success
+5137,1137,Debit Card,412.37,Success
+5138,1138,Debit Card,321.51,Success
+5139,1139,Credit Card,1138.72,Success
+5140,1140,Debit Card,1814.58,Success
+5141,1141,Debit Card,753.52,Success
+5142,1142,Cash,1492.7,Success
+5143,1143,Credit Card,1351.46,Success
+5144,1144,Debit Card,1869.95,Success
+5145,1145,Credit Card,1659.86,Success
+5146,1146,Debit Card,1176.55,Success
+5147,1147,Cash,1348.36,Success
+5148,1148,Credit Card,1806.93,Success
+5149,1149,Debit Card,859.09,Success
+5150,1150,Cash,720.91,Success
+5151,1151,Debit Card,120.54,Success
+5152,1152,Credit Card,1670.45,Success
+5153,1153,Debit Card,1621.86,Success
+5154,1154,Credit Card,298.46,Success
+5155,1155,Credit Card,1196.03,Success
+5156,1156,Debit Card,981.57,Success
+5157,1157,Cash,325.55,Success
+5158,1158,UPI,1963.08,Success
+5159,1159,Cash,507.92,Failed
+5160,1160,Cash,227.74,Success
+5161,1161,Debit Card,1230.21,Success
+5162,1162,Cash,1503.85,Success
+5163,1163,Cash,161.64,Success
+5164,1164,UPI,1351.56,Success
+5165,1165,Cash,1111.35,Success
+5166,1166,UPI,296.2,Success
+5167,1167,Debit Card,427.8,Success
+5168,1168,UPI,1179.15,Success
+5169,1169,Credit Card,663.08,Success
+5170,1170,Credit Card,1882.8,Success
+5171,1171,UPI,1655.61,Success
+5172,1172,Credit Card,1968.78,Success
+5173,1173,Debit Card,593.37,Success
+5174,1174,Credit Card,1942.47,Success
+5175,1175,UPI,919.34,Success
+5176,1176,Debit Card,760.29,Success
+5177,1177,Credit Card,195.66,Success
+5178,1178,Debit Card,200.25,Success
+5179,1179,UPI,1414.82,Success
+5180,1180,Credit Card,970.07,Success
+5181,1181,Debit Card,530.39,Success
+5182,1182,Debit Card,1266.54,Success
+5183,1183,Credit Card,580.43,Success
+5184,1184,Debit Card,1197.5,Success
+5185,1185,Debit Card,782.5,Success
+5186,1186,UPI,1664.75,Success
+5187,1187,UPI,1659.32,Success
+5188,1188,UPI,1006.97,Success
+5189,1189,UPI,766.56,Success
+5190,1190,UPI,788.86,Success
+5191,1191,UPI,1630.86,Failed
+5192,1192,Credit Card,723.54,Success
+5193,1193,UPI,497.21,Success
+5194,1194,Debit Card,260.91,Success
+5195,1195,Credit Card,986.72,Success
+5196,1196,Debit Card,1016.05,Success
+5197,1197,UPI,1697.73,Success
+5198,1198,UPI,520.35,Success
+5199,1199,Debit Card,823.88,Success
+5200,1200,Debit Card,1635.97,Success
+5201,1201,Debit Card,1664.88,Success
+5202,1202,Cash,830.76,Success
+5203,1203,Cash,972.34,Success
+5204,1204,Cash,676.24,Success
+5205,1205,Cash,1871.85,Success
+5206,1206,Credit Card,325.42,Success
+5207,1207,UPI,1874.12,Success
+5208,1208,Debit Card,1399.35,Success
+5209,1209,UPI,1109.99,Success
+5210,1210,Debit Card,162.05,Success
+5211,1211,UPI,1003.63,Success
+5212,1212,Credit Card,874.72,Success
+5213,1213,Cash,406.32,Success
+5214,1214,UPI,1347.18,Success
+5215,1215,Debit Card,1945.19,Success
+5216,1216,UPI,1168.16,Failed
+5217,1217,Credit Card,1458.03,Success
+5218,1218,Credit Card,230.06,Success
+5219,1219,UPI,893.57,Success
+5220,1220,Cash,321.08,Success
+5221,1221,Debit Card,1264.31,Success
+5222,1222,Credit Card,1883.12,Success
+5223,1223,Credit Card,1357.38,Success
+5224,1224,UPI,245.93,Failed
+5225,1225,Credit Card,773.87,Success
+5226,1226,Credit Card,1146.26,Success
+5227,1227,Debit Card,866.09,Success
+5228,1228,Cash,1683.92,Success
+5229,1229,Debit Card,1647.87,Success
+5230,1230,Cash,1262.48,Success
+5231,1231,Debit Card,809.57,Success
+5232,1232,UPI,585.14,Success
+5233,1233,Credit Card,301.16,Success
+5234,1234,Cash,774.31,Success
+5235,1235,UPI,885.03,Success
+5236,1236,Credit Card,1384.06,Success
+5237,1237,Credit Card,1350.5,Success
+5238,1238,Credit Card,233.21,Success
+5239,1239,Debit Card,850.99,Success
+5240,1240,UPI,445.38,Success
+5241,1241,UPI,397.94,Success
+5242,1242,Credit Card,1671.87,Success
+5243,1243,Cash,179.64,Success
+5244,1244,UPI,896.45,Success
+5245,1245,Debit Card,419.59,Success
+5246,1246,Cash,1770.73,Success
+5247,1247,Cash,1158.38,Success
+5248,1248,Cash,539.62,Success
+5249,1249,Cash,1054.61,Success
+5250,1250,UPI,1489.82,Success
+5251,1251,Credit Card,1920.42,Success
+5252,1252,Cash,518.85,Success
+5253,1253,Debit Card,1783.75,Success
+5254,1254,Debit Card,1875.18,Success
+5255,1255,Credit Card,1841.2,Success
+5256,1256,UPI,1307.29,Success
+5257,1257,Credit Card,1296.66,Success
+5258,1258,Cash,866.1,Success
+5259,1259,UPI,1529.56,Success
+5260,1260,UPI,1109.46,Success
+5261,1261,Cash,1387.13,Success
+5262,1262,Debit Card,914.07,Success
+5263,1263,Cash,1489.84,Success
+5264,1264,Credit Card,1666.5,Success
+5265,1265,Cash,378.23,Success
+5266,1266,Debit Card,1682.57,Success
+5267,1267,Cash,1126.56,Success
+5268,1268,Credit Card,1704.87,Success
+5269,1269,Credit Card,919.47,Success
+5270,1270,Debit Card,820.18,Success
+5271,1271,Credit Card,1838.62,Success
+5272,1272,Credit Card,577.22,Success
+5273,1273,Cash,1704.0,Success
+5274,1274,UPI,1019.64,Success
+5275,1275,Credit Card,1076.78,Success
+5276,1276,Credit Card,686.09,Success
+5277,1277,Debit Card,1188.78,Success
+5278,1278,Debit Card,717.9,Success
+5279,1279,Cash,174.61,Success
+5280,1280,Cash,616.8,Success
+5281,1281,Credit Card,112.12,Success
+5282,1282,UPI,1958.87,Success
+5283,1283,UPI,1934.92,Success
+5284,1284,Cash,850.8,Success
+5285,1285,Debit Card,1483.9,Failed
+5286,1286,Credit Card,757.03,Success
+5287,1287,Credit Card,1375.08,Success
+5288,1288,UPI,1630.32,Success
+5289,1289,Cash,1898.84,Success
+5290,1290,UPI,860.4,Success
+5291,1291,UPI,1588.27,Success
+5292,1292,Cash,605.26,Success
+5293,1293,Debit Card,1981.63,Success
+5294,1294,Credit Card,148.96,Success
+5295,1295,Debit Card,1246.7,Success
+5296,1296,Cash,1353.06,Success
+5297,1297,Cash,1407.29,Success
+5298,1298,Credit Card,328.74,Success
+5299,1299,Debit Card,1883.21,Success
+5300,1300,Credit Card,444.25,Success
+5301,1301,UPI,1283.23,Success
+5302,1302,UPI,523.08,Success
+5303,1303,UPI,683.71,Success
+5304,1304,Debit Card,1138.27,Success
+5305,1305,UPI,892.67,Success
+5306,1306,Credit Card,404.43,Success
+5307,1307,Debit Card,424.78,Success
+5308,1308,Credit Card,894.48,Success
+5309,1309,Cash,1538.84,Failed
+5310,1310,Debit Card,1806.13,Success
+5311,1311,Credit Card,259.84,Success
+5312,1312,Credit Card,846.9,Success
+5313,1313,Debit Card,290.47,Success
+5314,1314,Cash,131.53,Success
+5315,1315,Debit Card,1357.27,Success
+5316,1316,UPI,1244.65,Failed
+5317,1317,UPI,409.74,Success
+5318,1318,Cash,544.24,Success
+5319,1319,Credit Card,145.04,Success
+5320,1320,Credit Card,1686.4,Success
+5321,1321,Credit Card,1951.91,Success
+5322,1322,Debit Card,357.37,Success
+5323,1323,Debit Card,539.8,Success
+5324,1324,Cash,1749.98,Success
+5325,1325,UPI,1860.28,Success
+5326,1326,Credit Card,897.29,Success
+5327,1327,UPI,196.18,Success
+5328,1328,Debit Card,174.84,Success
+5329,1329,Debit Card,1190.5,Success
+5330,1330,Debit Card,846.5,Success
+5331,1331,UPI,154.44,Success
+5332,1332,Cash,1208.18,Failed
+5333,1333,Cash,121.47,Success
+5334,1334,Debit Card,1596.01,Success
+5335,1335,Credit Card,682.22,Success
+5336,1336,UPI,176.49,Success
+5337,1337,Debit Card,1217.87,Success
+5338,1338,UPI,855.6,Success
+5339,1339,UPI,1950.22,Success
+5340,1340,Cash,1133.98,Success
+5341,1341,Debit Card,622.95,Success
+5342,1342,Cash,1447.93,Success
+5343,1343,Debit Card,615.83,Success
+5344,1344,UPI,1818.06,Success
+5345,1345,Cash,811.97,Success
+5346,1346,UPI,1144.75,Success
+5347,1347,Debit Card,196.09,Success
+5348,1348,Credit Card,909.63,Success
+5349,1349,Cash,1681.49,Success
+5350,1350,Cash,1630.73,Success
+5351,1351,UPI,526.21,Success
+5352,1352,UPI,529.55,Success
+5353,1353,Credit Card,1652.88,Success
+5354,1354,Cash,1867.76,Success
+5355,1355,Debit Card,281.19,Success
+5356,1356,Debit Card,955.11,Success
+5357,1357,Cash,741.16,Success
+5358,1358,Cash,1754.31,Success
+5359,1359,Cash,258.7,Success
+5360,1360,Credit Card,501.14,Success
+5361,1361,Debit Card,1529.69,Success
+5362,1362,Debit Card,197.46,Success
+5363,1363,UPI,1035.82,Success
+5364,1364,UPI,940.0,Failed
+5365,1365,Cash,735.36,Success
+5366,1366,UPI,849.69,Success
+5367,1367,Credit Card,1106.89,Success
+5368,1368,Debit Card,406.6,Success
+5369,1369,Debit Card,1186.79,Success
+5370,1370,UPI,1630.32,Success
+5371,1371,Cash,1544.31,Success
+5372,1372,UPI,392.41,Success
+5373,1373,Cash,383.57,Success
+5374,1374,Credit Card,609.53,Success
+5375,1375,Debit Card,786.04,Success
+5376,1376,Credit Card,876.07,Success
+5377,1377,Debit Card,1391.42,Success
+5378,1378,Credit Card,207.69,Success
+5379,1379,UPI,165.88,Success
+5380,1380,Credit Card,844.63,Success
+5381,1381,Credit Card,1424.61,Success
+5382,1382,UPI,467.53,Success
+5383,1383,Debit Card,1318.86,Success
+5384,1384,Debit Card,593.67,Success
+5385,1385,UPI,1783.56,Success
+5386,1386,Credit Card,1801.81,Success
+5387,1387,Credit Card,664.85,Success
+5388,1388,Credit Card,536.99,Success
+5389,1389,Cash,881.48,Success
+5390,1390,Debit Card,557.01,Success
+5391,1391,Credit Card,1377.53,Success
+5392,1392,Debit Card,1669.52,Success
+5393,1393,Credit Card,1378.88,Success
+5394,1394,UPI,1666.27,Success
+5395,1395,UPI,854.29,Success
+5396,1396,Debit Card,397.0,Success
+5397,1397,Debit Card,1502.11,Success
+5398,1398,UPI,784.9,Success
+5399,1399,Cash,1375.41,Success
+5400,1400,UPI,614.22,Success
+5401,1401,Credit Card,254.34,Success
+5402,1402,Cash,1985.91,Success
+5403,1403,UPI,396.78,Success
+5404,1404,Cash,1978.0,Success
+5405,1405,Cash,1956.83,Success
+5406,1406,Cash,1608.25,Success
+5407,1407,Debit Card,1352.9,Success
+5408,1408,UPI,1197.83,Failed
+5409,1409,Debit Card,1745.59,Success
+5410,1410,Debit Card,649.94,Success
+5411,1411,Credit Card,988.59,Success
+5412,1412,Credit Card,1276.84,Success
+5413,1413,Cash,881.26,Success
+5414,1414,Cash,912.22,Success
+5415,1415,Credit Card,727.54,Success
+5416,1416,Credit Card,1172.04,Success
+5417,1417,UPI,1716.09,Failed
+5418,1418,Cash,482.9,Success
+5419,1419,Cash,1875.42,Success
+5420,1420,Credit Card,1409.27,Success
+5421,1421,UPI,1664.22,Success
+5422,1422,Credit Card,1156.76,Failed
+5423,1423,Credit Card,1581.08,Success
+5424,1424,Debit Card,130.78,Success
+5425,1425,Cash,1654.92,Success
+5426,1426,UPI,176.26,Success
+5427,1427,Debit Card,1790.84,Success
+5428,1428,Cash,1984.73,Success
+5429,1429,Credit Card,658.73,Success
+5430,1430,UPI,499.61,Success
+5431,1431,Cash,1554.19,Success
+5432,1432,Credit Card,580.75,Success
+5433,1433,Debit Card,1744.57,Success
+5434,1434,UPI,295.4,Success
+5435,1435,Cash,339.31,Success
+5436,1436,Debit Card,1960.39,Success
+5437,1437,Credit Card,1380.29,Success
+5438,1438,Credit Card,1709.09,Success
+5439,1439,Cash,716.23,Success
+5440,1440,Credit Card,1385.32,Success
+5441,1441,UPI,1229.06,Success
+5442,1442,Cash,1245.99,Success
+5443,1443,Debit Card,1396.81,Success
+5444,1444,Cash,1193.18,Success
+5445,1445,Cash,915.22,Success
+5446,1446,Debit Card,624.25,Success
+5447,1447,Credit Card,1560.3,Success
+5448,1448,Debit Card,529.92,Success
+5449,1449,UPI,1415.47,Success
+5450,1450,Credit Card,543.33,Success
+5451,1451,Cash,1288.13,Success
+5452,1452,Credit Card,1519.45,Success
+5453,1453,Credit Card,515.56,Success
+5454,1454,UPI,213.89,Success
+5455,1455,Credit Card,348.85,Success
+5456,1456,Credit Card,1251.39,Success
+5457,1457,Credit Card,1713.95,Success
+5458,1458,Cash,185.49,Success
+5459,1459,Credit Card,1494.89,Success
+5460,1460,Debit Card,748.51,Success
+5461,1461,Credit Card,1009.2,Success
+5462,1462,UPI,1864.83,Success
+5463,1463,Credit Card,730.75,Success
+5464,1464,Credit Card,984.14,Success
+5465,1465,Cash,126.0,Success
+5466,1466,Debit Card,255.04,Success
+5467,1467,Credit Card,591.32,Success
+5468,1468,Debit Card,152.92,Success
+5469,1469,UPI,1299.61,Success
+5470,1470,Cash,910.16,Success
+5471,1471,Debit Card,1141.48,Success
+5472,1472,Cash,431.83,Success
+5473,1473,Credit Card,662.27,Success
+5474,1474,UPI,1361.27,Success
+5475,1475,Cash,1934.08,Success
+5476,1476,Credit Card,195.79,Success
+5477,1477,Debit Card,1791.73,Success
+5478,1478,UPI,1196.07,Success
+5479,1479,UPI,1171.45,Success
+5480,1480,Debit Card,1050.53,Success
+5481,1481,Debit Card,231.85,Success
+5482,1482,UPI,270.77,Success
+5483,1483,Cash,1241.73,Success
+5484,1484,UPI,747.82,Success
+5485,1485,Debit Card,1842.81,Success
+5486,1486,Cash,872.52,Success
+5487,1487,Credit Card,372.23,Success
+5488,1488,UPI,1457.97,Success
+5489,1489,Debit Card,657.37,Success
+5490,1490,Credit Card,1098.39,Success
+5491,1491,UPI,1425.88,Success
+5492,1492,UPI,1810.5,Failed
+5493,1493,Cash,1605.16,Success
+5494,1494,Debit Card,1385.09,Success
+5495,1495,Credit Card,1391.3,Success
+5496,1496,UPI,1897.26,Success
+5497,1497,Cash,662.07,Success
+5498,1498,Credit Card,102.11,Success
+5499,1499,Credit Card,616.71,Success
+5500,1500,UPI,513.99,Success
+5501,1501,Credit Card,1357.49,Success
+5502,1502,UPI,1304.05,Success
+5503,1503,Cash,1227.58,Success
+5504,1504,Cash,130.86,Success
+5505,1505,Credit Card,1484.68,Success
+5506,1506,UPI,714.71,Success
+5507,1507,Debit Card,1363.61,Success
+5508,1508,Cash,1157.5,Success
+5509,1509,UPI,751.19,Success
+5510,1510,UPI,355.69,Success
+5511,1511,UPI,279.4,Success
+5512,1512,Credit Card,1679.88,Success
+5513,1513,Debit Card,1844.96,Success
+5514,1514,Credit Card,1334.6,Success
+5515,1515,Cash,296.52,Success
+5516,1516,Credit Card,863.85,Success
+5517,1517,UPI,1484.98,Success
+5518,1518,Credit Card,1581.66,Success
+5519,1519,UPI,324.62,Success
+5520,1520,Debit Card,100.06,Success
+5521,1521,Credit Card,1453.06,Success
+5522,1522,Credit Card,777.53,Success
+5523,1523,Credit Card,583.51,Success
+5524,1524,UPI,124.51,Success
+5525,1525,UPI,1126.57,Success
+5526,1526,Credit Card,1717.19,Success
+5527,1527,Credit Card,1919.5,Success
+5528,1528,Debit Card,1174.92,Success
+5529,1529,Debit Card,1077.48,Success
+5530,1530,Cash,261.61,Success
+5531,1531,Debit Card,1142.86,Success
+5532,1532,Debit Card,821.96,Success
+5533,1533,Debit Card,1253.56,Success
+5534,1534,UPI,838.58,Success
+5535,1535,Debit Card,556.57,Success
+5536,1536,Debit Card,280.43,Success
+5537,1537,Credit Card,698.35,Success
+5538,1538,UPI,283.63,Success
+5539,1539,Cash,436.1,Success
+5540,1540,Cash,1975.94,Success
+5541,1541,Debit Card,943.8,Success
+5542,1542,Cash,1110.56,Success
+5543,1543,Cash,1759.88,Success
+5544,1544,Cash,1991.58,Success
+5545,1545,Debit Card,1207.16,Success
+5546,1546,Cash,1643.7,Success
+5547,1547,Debit Card,721.19,Success
+5548,1548,Credit Card,680.91,Success
+5549,1549,Credit Card,865.14,Success
+5550,1550,Cash,1377.76,Success
+5551,1551,Credit Card,1396.16,Success
+5552,1552,Debit Card,698.95,Success
+5553,1553,Credit Card,353.1,Success
+5554,1554,Cash,1301.55,Failed
+5555,1555,Debit Card,343.82,Success
+5556,1556,UPI,1199.14,Success
+5557,1557,Debit Card,1417.5,Failed
+5558,1558,Credit Card,1431.16,Success
+5559,1559,UPI,1531.6,Success
+5560,1560,Debit Card,1758.43,Success
+5561,1561,UPI,1049.92,Success
+5562,1562,UPI,1487.47,Success
+5563,1563,UPI,1276.43,Success
+5564,1564,Debit Card,454.62,Success
+5565,1565,Credit Card,148.81,Success
+5566,1566,Debit Card,640.63,Success
+5567,1567,Credit Card,941.76,Success
+5568,1568,Debit Card,1272.5,Success
+5569,1569,Debit Card,1714.92,Success
+5570,1570,Debit Card,472.87,Success
+5571,1571,Credit Card,338.54,Success
+5572,1572,Debit Card,1930.61,Success
+5573,1573,UPI,305.28,Success
+5574,1574,Debit Card,1009.13,Success
+5575,1575,UPI,1212.57,Success
+5576,1576,Cash,1128.61,Success
+5577,1577,Cash,263.46,Success
+5578,1578,Credit Card,208.35,Success
+5579,1579,Credit Card,300.42,Success
+5580,1580,Cash,1212.62,Success
+5581,1581,Debit Card,1134.26,Success
+5582,1582,Debit Card,544.11,Success
+5583,1583,Debit Card,1311.77,Success
+5584,1584,Cash,1658.13,Success
+5585,1585,UPI,179.0,Success
+5586,1586,Credit Card,1046.45,Success
+5587,1587,UPI,1409.69,Success
+5588,1588,Cash,579.39,Success
+5589,1589,UPI,684.76,Success
+5590,1590,Debit Card,1265.91,Success
+5591,1591,Debit Card,1806.08,Success
+5592,1592,UPI,1638.86,Success
+5593,1593,Cash,1207.95,Success
+5594,1594,UPI,1487.42,Success
+5595,1595,Debit Card,793.16,Success
+5596,1596,Debit Card,1317.83,Success
+5597,1597,Cash,985.75,Success
+5598,1598,UPI,460.88,Success
+5599,1599,Debit Card,1433.3,Success
+5600,1600,Debit Card,1157.28,Success
+5601,1601,UPI,781.38,Success
+5602,1602,UPI,1831.54,Success
+5603,1603,Credit Card,139.77,Success
+5604,1604,Cash,699.97,Success
+5605,1605,Cash,208.07,Success
+5606,1606,UPI,1556.4,Success
+5607,1607,Cash,1434.0,Success
+5608,1608,Debit Card,729.57,Success
+5609,1609,UPI,1383.76,Success
+5610,1610,UPI,852.28,Success
+5611,1611,UPI,1536.88,Success
+5612,1612,Credit Card,962.95,Success
+5613,1613,Cash,883.33,Success
+5614,1614,Credit Card,1875.99,Success
+5615,1615,Debit Card,576.67,Success
+5616,1616,Cash,328.85,Success
+5617,1617,Credit Card,1210.63,Success
+5618,1618,UPI,1941.71,Success
+5619,1619,Credit Card,817.89,Success
+5620,1620,UPI,217.87,Success
+5621,1621,Credit Card,744.68,Success
+5622,1622,Credit Card,1061.27,Success
+5623,1623,Credit Card,407.65,Success
+5624,1624,UPI,1350.39,Success
+5625,1625,Credit Card,1995.72,Success
+5626,1626,Cash,958.31,Failed
+5627,1627,Cash,773.98,Success
+5628,1628,Cash,861.34,Success
+5629,1629,UPI,318.78,Success
+5630,1630,UPI,1778.22,Success
+5631,1631,Cash,888.17,Success
+5632,1632,Cash,835.82,Success
+5633,1633,Cash,1353.41,Success
+5634,1634,Debit Card,939.86,Success
+5635,1635,Cash,1331.64,Success
+5636,1636,Credit Card,216.75,Failed
+5637,1637,Debit Card,1646.07,Success
+5638,1638,Debit Card,1886.96,Success
+5639,1639,UPI,1332.65,Success
+5640,1640,Credit Card,1913.68,Success
+5641,1641,UPI,387.72,Success
+5642,1642,UPI,1007.09,Success
+5643,1643,Credit Card,1243.43,Success
+5644,1644,UPI,1205.3,Failed
+5645,1645,Credit Card,862.78,Success
+5646,1646,Credit Card,742.36,Success
+5647,1647,UPI,340.97,Failed
+5648,1648,Cash,844.31,Success
+5649,1649,UPI,409.06,Success
+5650,1650,Debit Card,1495.29,Success
+5651,1651,UPI,496.78,Success
+5652,1652,Credit Card,211.27,Success
+5653,1653,Debit Card,1149.5,Success
+5654,1654,Credit Card,1230.94,Success
+5655,1655,Cash,1756.63,Success
+5656,1656,Cash,1196.27,Success
+5657,1657,Debit Card,756.41,Success
+5658,1658,Cash,1625.72,Success
+5659,1659,Cash,1126.53,Failed
+5660,1660,UPI,250.63,Success
+5661,1661,UPI,1175.12,Success
+5662,1662,Cash,1825.24,Success
+5663,1663,Cash,852.99,Success
+5664,1664,UPI,663.02,Success
+5665,1665,Cash,372.59,Success
+5666,1666,Cash,387.75,Success
+5667,1667,Credit Card,922.27,Success
+5668,1668,Cash,1231.79,Success
+5669,1669,Debit Card,253.17,Success
+5670,1670,Credit Card,1885.18,Success
+5671,1671,Debit Card,1534.75,Success
+5672,1672,Cash,1214.59,Success
+5673,1673,UPI,1674.03,Success
+5674,1674,Credit Card,252.35,Success
+5675,1675,UPI,1005.99,Success
+5676,1676,Credit Card,1297.18,Success
+5677,1677,UPI,1674.44,Success
+5678,1678,Credit Card,1588.59,Success
+5679,1679,Credit Card,626.43,Success
+5680,1680,Debit Card,1887.67,Success
+5681,1681,UPI,336.26,Success
+5682,1682,Debit Card,1762.75,Success
+5683,1683,Debit Card,1944.79,Success
+5684,1684,UPI,436.59,Success
+5685,1685,Credit Card,1471.93,Success
+5686,1686,Debit Card,176.54,Success
+5687,1687,UPI,870.3,Success
+5688,1688,Credit Card,1080.94,Success
+5689,1689,Debit Card,1203.23,Success
+5690,1690,Debit Card,1878.28,Success
+5691,1691,Debit Card,1377.28,Failed
+5692,1692,Credit Card,1014.43,Success
+5693,1693,Debit Card,1638.38,Success
+5694,1694,Credit Card,1906.01,Failed
+5695,1695,Cash,141.93,Success
+5696,1696,Debit Card,1966.79,Success
+5697,1697,Cash,263.65,Success
+5698,1698,UPI,1647.33,Success
+5699,1699,Debit Card,632.64,Success
+5700,1700,UPI,351.14,Success
+5701,1701,UPI,935.73,Success
+5702,1702,UPI,1323.52,Success
+5703,1703,Cash,823.81,Success
+5704,1704,Credit Card,203.67,Success
+5705,1705,Cash,1238.98,Success
+5706,1706,Cash,1814.57,Success
+5707,1707,UPI,828.11,Success
+5708,1708,Debit Card,511.03,Success
+5709,1709,Credit Card,940.9,Success
+5710,1710,UPI,191.89,Success
+5711,1711,Credit Card,1658.93,Success
+5712,1712,Cash,1670.05,Success
+5713,1713,Credit Card,1217.2,Success
+5714,1714,Credit Card,770.9,Success
+5715,1715,Debit Card,1619.59,Success
+5716,1716,UPI,1153.91,Success
+5717,1717,Credit Card,1669.27,Success
+5718,1718,Credit Card,1299.77,Success
+5719,1719,Cash,1590.37,Success
+5720,1720,Cash,1237.27,Success
+5721,1721,Credit Card,886.87,Success
+5722,1722,UPI,1920.1,Success
+5723,1723,Credit Card,1128.12,Success
+5724,1724,Credit Card,1249.67,Success
+5725,1725,Debit Card,518.93,Success
+5726,1726,UPI,1288.74,Success
+5727,1727,Debit Card,1186.05,Success
+5728,1728,UPI,451.19,Success
+5729,1729,UPI,213.22,Success
+5730,1730,UPI,1248.28,Success
+5731,1731,Debit Card,1551.02,Success
+5732,1732,Debit Card,1094.46,Success
+5733,1733,Debit Card,530.87,Success
+5734,1734,Cash,1366.39,Success
+5735,1735,Debit Card,252.2,Success
+5736,1736,Cash,939.48,Success
+5737,1737,Cash,410.4,Success
+5738,1738,Cash,450.47,Success
+5739,1739,Credit Card,484.36,Success
+5740,1740,Credit Card,834.74,Success
+5741,1741,Credit Card,197.19,Success
+5742,1742,Cash,855.81,Success
+5743,1743,Cash,1072.24,Success
+5744,1744,UPI,1018.26,Success
+5745,1745,Cash,827.29,Success
+5746,1746,Credit Card,1694.38,Success
+5747,1747,Cash,376.12,Success
+5748,1748,Cash,1060.82,Success
+5749,1749,UPI,217.88,Success
+5750,1750,Cash,235.2,Failed
+5751,1751,Debit Card,1190.35,Success
+5752,1752,UPI,1175.44,Success
+5753,1753,Cash,1768.26,Success
+5754,1754,Cash,1159.96,Success
+5755,1755,UPI,1923.6,Success
+5756,1756,Cash,192.52,Success
+5757,1757,Credit Card,286.21,Success
+5758,1758,Debit Card,183.73,Success
+5759,1759,Debit Card,452.03,Success
+5760,1760,Credit Card,1128.41,Success
+5761,1761,Cash,1326.59,Success
+5762,1762,Cash,186.61,Success
+5763,1763,Debit Card,1897.34,Success
+5764,1764,Cash,1700.11,Success
+5765,1765,Debit Card,663.56,Success
+5766,1766,Debit Card,246.66,Success
+5767,1767,Credit Card,422.79,Success
+5768,1768,Debit Card,341.19,Success
+5769,1769,Cash,334.24,Success
+5770,1770,Cash,1085.27,Success
+5771,1771,UPI,567.11,Success
+5772,1772,Cash,780.47,Success
+5773,1773,UPI,1980.06,Success
+5774,1774,Debit Card,1400.2,Success
+5775,1775,Cash,1903.06,Success
+5776,1776,Credit Card,370.86,Success
+5777,1777,Credit Card,826.07,Success
+5778,1778,Credit Card,1153.99,Success
+5779,1779,Debit Card,245.84,Success
+5780,1780,Debit Card,107.96,Success
+5781,1781,UPI,1373.83,Success
+5782,1782,Credit Card,1319.46,Success
+5783,1783,UPI,880.5,Success
+5784,1784,UPI,1030.32,Success
+5785,1785,Cash,889.34,Success
+5786,1786,Cash,145.61,Success
+5787,1787,Credit Card,737.21,Success
+5788,1788,Debit Card,436.46,Success
+5789,1789,Cash,287.01,Success
+5790,1790,Debit Card,1917.77,Success
+5791,1791,UPI,1238.78,Success
+5792,1792,UPI,1484.45,Failed
+5793,1793,UPI,699.19,Success
+5794,1794,UPI,846.98,Failed
+5795,1795,Credit Card,550.16,Success
+5796,1796,UPI,284.23,Success
+5797,1797,Cash,440.16,Success
+5798,1798,UPI,1615.28,Success
+5799,1799,Debit Card,1387.34,Success
+5800,1800,Cash,1139.16,Success
+5801,1801,Debit Card,1002.67,Success
+5802,1802,Debit Card,1852.63,Failed
+5803,1803,Credit Card,238.2,Success
+5804,1804,Credit Card,633.14,Success
+5805,1805,Debit Card,764.88,Success
+5806,1806,Debit Card,1586.61,Success
+5807,1807,UPI,1985.78,Success
+5808,1808,Cash,557.27,Success
+5809,1809,UPI,1761.18,Success
+5810,1810,Credit Card,1678.18,Success
+5811,1811,Credit Card,526.85,Success
+5812,1812,UPI,858.73,Failed
+5813,1813,Cash,878.38,Success
+5814,1814,Debit Card,1958.62,Success
+5815,1815,UPI,443.69,Success
+5816,1816,Credit Card,1618.4,Success
+5817,1817,Cash,734.97,Success
+5818,1818,Credit Card,1488.65,Success
+5819,1819,Cash,898.02,Success
+5820,1820,Cash,1198.88,Success
+5821,1821,Cash,1681.96,Success
+5822,1822,UPI,1627.91,Success
+5823,1823,UPI,1746.2,Success
+5824,1824,UPI,213.27,Success
+5825,1825,Cash,1414.9,Success
+5826,1826,Cash,365.98,Success
+5827,1827,Credit Card,890.06,Failed
+5828,1828,Debit Card,1142.32,Success
+5829,1829,UPI,865.21,Success
+5830,1830,Cash,1087.26,Success
+5831,1831,Credit Card,1993.4,Success
+5832,1832,Credit Card,356.91,Success
+5833,1833,Credit Card,1383.37,Success
+5834,1834,UPI,852.4,Success
+5835,1835,UPI,352.72,Success
+5836,1836,Debit Card,401.6,Success
+5837,1837,Credit Card,1903.62,Success
+5838,1838,UPI,1771.24,Success
+5839,1839,Credit Card,1823.38,Success
+5840,1840,Cash,1983.91,Success
+5841,1841,Credit Card,495.8,Success
+5842,1842,Debit Card,775.33,Success
+5843,1843,UPI,1371.52,Success
+5844,1844,Cash,1019.22,Success
+5845,1845,UPI,894.94,Success
+5846,1846,Cash,779.84,Success
+5847,1847,Credit Card,1228.18,Success
+5848,1848,Credit Card,1193.63,Success
+5849,1849,Debit Card,406.77,Success
+5850,1850,Debit Card,996.31,Success
+5851,1851,Cash,1151.6,Success
+5852,1852,Debit Card,1183.55,Success
+5853,1853,Debit Card,499.2,Success
+5854,1854,Debit Card,1510.32,Success
+5855,1855,Debit Card,147.88,Success
+5856,1856,Credit Card,774.18,Success
+5857,1857,Debit Card,1582.4,Success
+5858,1858,Credit Card,1171.4,Success
+5859,1859,Credit Card,596.21,Success
+5860,1860,UPI,1420.41,Success
+5861,1861,Credit Card,1178.04,Success
+5862,1862,Credit Card,1612.86,Success
+5863,1863,Debit Card,1496.55,Success
+5864,1864,Credit Card,1259.21,Success
+5865,1865,Cash,1027.54,Success
+5866,1866,Debit Card,353.05,Success
+5867,1867,Debit Card,596.53,Success
+5868,1868,Debit Card,896.29,Success
+5869,1869,UPI,1238.67,Success
+5870,1870,Debit Card,1076.04,Failed
+5871,1871,Credit Card,647.55,Failed
+5872,1872,Cash,112.28,Success
+5873,1873,Debit Card,1042.85,Failed
+5874,1874,Debit Card,642.69,Success
+5875,1875,Cash,1495.76,Success
+5876,1876,Debit Card,145.5,Success
+5877,1877,UPI,1211.17,Success
+5878,1878,Credit Card,1888.8,Success
+5879,1879,Cash,431.38,Failed
+5880,1880,Cash,996.13,Success
+5881,1881,UPI,273.7,Success
+5882,1882,Credit Card,1288.8,Success
+5883,1883,UPI,1146.01,Success
+5884,1884,Credit Card,873.99,Success
+5885,1885,UPI,1090.62,Success
+5886,1886,Debit Card,1803.49,Success
+5887,1887,UPI,472.96,Success
+5888,1888,Cash,142.87,Success
+5889,1889,Cash,1737.16,Success
+5890,1890,Cash,1196.52,Failed
+5891,1891,UPI,1792.25,Success
+5892,1892,Cash,1234.2,Success
+5893,1893,Cash,1639.31,Success
+5894,1894,Debit Card,916.38,Success
+5895,1895,Debit Card,1524.73,Failed
+5896,1896,Credit Card,1834.78,Success
+5897,1897,Credit Card,1187.03,Success
+5898,1898,Credit Card,443.49,Success
+5899,1899,UPI,610.72,Failed
+5900,1900,Credit Card,477.42,Success
+5901,1901,UPI,569.03,Success
+5902,1902,UPI,682.19,Success
+5903,1903,Credit Card,1154.75,Success
+5904,1904,Credit Card,1217.18,Success
+5905,1905,UPI,910.35,Success
+5906,1906,Debit Card,1269.3,Success
+5907,1907,Cash,254.99,Success
+5908,1908,Cash,266.8,Success
+5909,1909,Cash,426.48,Success
+5910,1910,Debit Card,1084.35,Success
+5911,1911,UPI,506.59,Success
+5912,1912,Credit Card,638.24,Success
+5913,1913,UPI,860.59,Success
+5914,1914,UPI,1642.55,Success
+5915,1915,Credit Card,126.34,Success
+5916,1916,Debit Card,1333.82,Success
+5917,1917,Cash,1370.87,Success
+5918,1918,Cash,1617.45,Success
+5919,1919,UPI,1872.23,Success
+5920,1920,Debit Card,138.26,Success
+5921,1921,Cash,392.19,Success
+5922,1922,Debit Card,1783.73,Success
+5923,1923,Credit Card,971.19,Success
+5924,1924,UPI,1172.72,Success
+5925,1925,UPI,1359.75,Success
+5926,1926,Debit Card,1390.23,Success
+5927,1927,Cash,1870.31,Success
+5928,1928,Debit Card,1994.2,Success
+5929,1929,Credit Card,1468.3,Success
+5930,1930,Cash,645.72,Success
+5931,1931,Cash,1771.53,Success
+5932,1932,Debit Card,193.52,Success
+5933,1933,Credit Card,539.05,Success
+5934,1934,Cash,1805.03,Success
+5935,1935,UPI,586.76,Success
+5936,1936,Credit Card,519.24,Success
+5937,1937,Cash,362.44,Success
+5938,1938,Debit Card,1732.31,Success
+5939,1939,Cash,1050.11,Success
+5940,1940,UPI,1382.3,Success
+5941,1941,Credit Card,554.23,Success
+5942,1942,Cash,1540.28,Success
+5943,1943,UPI,1544.01,Success
+5944,1944,Cash,693.94,Success
+5945,1945,Cash,880.3,Success
+5946,1946,Credit Card,498.41,Success
+5947,1947,Debit Card,1955.47,Success
+5948,1948,Debit Card,1326.64,Failed
+5949,1949,UPI,1875.63,Success
+5950,1950,UPI,676.43,Success
+5951,1951,UPI,1585.59,Success
+5952,1952,Credit Card,1555.13,Success
+5953,1953,Debit Card,1414.15,Success
+5954,1954,UPI,1934.71,Success
+5955,1955,UPI,847.76,Success
+5956,1956,Cash,348.36,Success
+5957,1957,Cash,1376.25,Success
+5958,1958,UPI,1485.69,Success
+5959,1959,Cash,1192.62,Success
+5960,1960,Cash,492.95,Success
+5961,1961,Cash,1058.47,Success
+5962,1962,Credit Card,693.16,Success
+5963,1963,UPI,912.19,Success
+5964,1964,UPI,1325.92,Success
+5965,1965,Cash,1515.91,Success
+5966,1966,Credit Card,541.23,Success
+5967,1967,Cash,870.12,Success
+5968,1968,Credit Card,611.41,Success
+5969,1969,UPI,477.4,Success
+5970,1970,Cash,1588.44,Success
+5971,1971,UPI,1827.58,Success
+5972,1972,Credit Card,803.44,Success
+5973,1973,Debit Card,1527.43,Success
+5974,1974,Credit Card,1804.29,Success
+5975,1975,Debit Card,1707.64,Success
+5976,1976,UPI,447.35,Success
+5977,1977,UPI,1916.95,Success
+5978,1978,Cash,815.69,Success
+5979,1979,Debit Card,744.56,Success
+5980,1980,Credit Card,218.62,Success
+5981,1981,UPI,1023.73,Success
+5982,1982,Debit Card,307.13,Failed
+5983,1983,Credit Card,572.23,Success
+5984,1984,Debit Card,702.19,Success
+5985,1985,Credit Card,1636.77,Success
+5986,1986,Credit Card,1763.43,Success
+5987,1987,Credit Card,674.69,Success
+5988,1988,Credit Card,1731.53,Success
+5989,1989,Debit Card,1728.74,Success
+5990,1990,Debit Card,1552.84,Success
+5991,1991,Cash,378.72,Success
+5992,1992,Debit Card,1411.61,Success
+5993,1993,Debit Card,1895.55,Success
+5994,1994,Cash,1396.83,Success
+5995,1995,Debit Card,730.07,Success
+5996,1996,Credit Card,1051.1,Success
+5997,1997,UPI,1326.88,Failed
+5998,1998,UPI,1070.08,Failed
+5999,1999,Cash,327.91,Success
+6000,2000,Debit Card,692.92,Success
+6001,2001,Debit Card,1624.55,Success
+6002,2002,Cash,1736.69,Success
+6003,2003,UPI,360.87,Success
+6004,2004,Credit Card,1909.53,Success
+6005,2005,Debit Card,724.76,Success
+6006,2006,Cash,1358.4,Success
+6007,2007,Credit Card,1528.47,Success
+6008,2008,Cash,1642.7,Success
+6009,2009,Cash,1896.92,Success
+6010,2010,Cash,694.55,Success
+6011,2011,UPI,1731.16,Success
+6012,2012,UPI,350.21,Success
+6013,2013,Cash,1439.58,Success
+6014,2014,Debit Card,1509.76,Success
+6015,2015,Credit Card,1387.67,Success
+6016,2016,Debit Card,579.4,Failed
+6017,2017,UPI,1758.78,Success
+6018,2018,Credit Card,420.83,Success
+6019,2019,Cash,201.91,Success
+6020,2020,Debit Card,1463.18,Failed
+6021,2021,Debit Card,1003.4,Success
+6022,2022,Cash,1713.29,Success
+6023,2023,Debit Card,828.45,Success
+6024,2024,UPI,419.73,Success
+6025,2025,Cash,1689.24,Success
+6026,2026,Debit Card,1142.93,Success
+6027,2027,Cash,459.47,Success
+6028,2028,Credit Card,1468.73,Success
+6029,2029,Cash,1071.12,Success
+6030,2030,Debit Card,1248.19,Success
+6031,2031,UPI,975.71,Success
+6032,2032,Cash,1674.55,Success
+6033,2033,Cash,1676.17,Success
+6034,2034,Debit Card,1447.84,Success
+6035,2035,UPI,300.26,Success
+6036,2036,UPI,1693.82,Success
+6037,2037,Credit Card,1374.92,Success
+6038,2038,Credit Card,1424.35,Success
+6039,2039,Debit Card,789.67,Success
+6040,2040,UPI,1770.63,Success
+6041,2041,UPI,1478.21,Success
+6042,2042,Credit Card,313.92,Success
+6043,2043,Credit Card,874.78,Success
+6044,2044,Debit Card,1784.12,Success
+6045,2045,UPI,189.67,Success
+6046,2046,Cash,1926.69,Success
+6047,2047,Credit Card,1390.41,Success
+6048,2048,Debit Card,1299.61,Success
+6049,2049,UPI,614.06,Success
+6050,2050,UPI,572.7,Success
+6051,2051,Credit Card,1889.91,Success
+6052,2052,Debit Card,666.72,Success
+6053,2053,Cash,1573.46,Failed
+6054,2054,Credit Card,846.93,Success
+6055,2055,Debit Card,364.58,Success
+6056,2056,UPI,120.36,Success
+6057,2057,Cash,1134.09,Success
+6058,2058,Debit Card,1953.98,Success
+6059,2059,Cash,801.36,Success
+6060,2060,Debit Card,778.67,Success
+6061,2061,Debit Card,753.77,Success
+6062,2062,Debit Card,1089.03,Success
+6063,2063,Debit Card,937.26,Success
+6064,2064,Cash,1771.84,Success
+6065,2065,Credit Card,1060.49,Success
+6066,2066,Cash,1064.74,Success
+6067,2067,Debit Card,362.91,Success
+6068,2068,Cash,1967.21,Success
+6069,2069,Cash,574.95,Success
+6070,2070,Cash,239.39,Success
+6071,2071,Debit Card,1359.98,Success
+6072,2072,Cash,1231.2,Success
+6073,2073,UPI,888.78,Success
+6074,2074,Debit Card,902.17,Failed
+6075,2075,Cash,1591.62,Success
+6076,2076,UPI,471.85,Success
+6077,2077,Cash,1658.48,Success
+6078,2078,Credit Card,1332.62,Success
+6079,2079,Cash,896.04,Success
+6080,2080,Cash,970.25,Success
+6081,2081,Credit Card,587.63,Success
+6082,2082,Debit Card,1529.02,Success
+6083,2083,Credit Card,1074.46,Success
+6084,2084,Debit Card,709.62,Success
+6085,2085,Credit Card,1232.5,Success
+6086,2086,Cash,1991.9,Success
+6087,2087,Cash,927.0,Success
+6088,2088,Debit Card,1849.31,Success
+6089,2089,Debit Card,755.53,Success
+6090,2090,UPI,203.99,Success
+6091,2091,UPI,488.06,Success
+6092,2092,Cash,895.52,Success
+6093,2093,Cash,517.31,Success
+6094,2094,UPI,100.43,Success
+6095,2095,UPI,1838.5,Success
+6096,2096,Debit Card,1703.37,Success
+6097,2097,Credit Card,1510.36,Success
+6098,2098,Debit Card,418.85,Success
+6099,2099,UPI,328.69,Success
+6100,2100,Cash,228.45,Success
+6101,2101,UPI,1475.66,Success
+6102,2102,Cash,1864.74,Success
+6103,2103,Cash,918.02,Success
+6104,2104,Cash,326.37,Success
+6105,2105,Cash,1073.55,Success
+6106,2106,Credit Card,762.78,Success
+6107,2107,UPI,812.17,Success
+6108,2108,Debit Card,1280.53,Success
+6109,2109,Cash,1465.56,Success
+6110,2110,Cash,310.15,Success
+6111,2111,Debit Card,167.62,Success
+6112,2112,Debit Card,1989.23,Success
+6113,2113,Cash,542.18,Success
+6114,2114,Debit Card,202.28,Success
+6115,2115,Debit Card,460.76,Success
+6116,2116,Credit Card,174.02,Success
+6117,2117,Debit Card,844.44,Success
+6118,2118,UPI,1624.56,Success
+6119,2119,UPI,748.36,Success
+6120,2120,UPI,943.95,Success
+6121,2121,Cash,1383.61,Success
+6122,2122,UPI,1066.9,Success
+6123,2123,Credit Card,1736.75,Failed
+6124,2124,UPI,1745.47,Success
+6125,2125,Cash,118.83,Success
+6126,2126,Credit Card,1578.29,Success
+6127,2127,UPI,975.39,Success
+6128,2128,Credit Card,1978.8,Success
+6129,2129,Credit Card,1018.14,Success
+6130,2130,Cash,1975.1,Success
+6131,2131,Cash,1533.68,Success
+6132,2132,Credit Card,572.35,Success
+6133,2133,UPI,1122.95,Success
+6134,2134,Cash,1985.06,Success
+6135,2135,Credit Card,1729.31,Success
+6136,2136,Debit Card,285.0,Success
+6137,2137,Debit Card,1442.11,Success
+6138,2138,Cash,756.6,Success
+6139,2139,UPI,113.27,Success
+6140,2140,Debit Card,866.61,Success
+6141,2141,Debit Card,546.03,Success
+6142,2142,Debit Card,1655.85,Success
+6143,2143,UPI,740.93,Success
+6144,2144,UPI,1672.3,Success
+6145,2145,Cash,101.14,Success
+6146,2146,Cash,684.86,Success
+6147,2147,Debit Card,558.21,Success
+6148,2148,UPI,543.78,Success
+6149,2149,Credit Card,229.55,Success
+6150,2150,Debit Card,455.54,Success
+6151,2151,Cash,1155.54,Success
+6152,2152,UPI,653.59,Success
+6153,2153,Cash,893.05,Success
+6154,2154,Cash,816.05,Success
+6155,2155,UPI,1764.22,Success
+6156,2156,Debit Card,1820.07,Success
+6157,2157,UPI,1036.62,Success
+6158,2158,Debit Card,727.3,Success
+6159,2159,Cash,302.92,Success
+6160,2160,UPI,1911.47,Success
+6161,2161,Credit Card,214.43,Success
+6162,2162,Debit Card,665.54,Success
+6163,2163,Credit Card,666.33,Success
+6164,2164,Debit Card,708.76,Success
+6165,2165,UPI,412.15,Success
+6166,2166,Credit Card,1588.01,Success
+6167,2167,UPI,332.75,Success
+6168,2168,Debit Card,1306.32,Success
+6169,2169,Debit Card,335.31,Success
+6170,2170,Debit Card,234.02,Failed
+6171,2171,Debit Card,1827.92,Success
+6172,2172,Cash,461.24,Success
+6173,2173,Debit Card,1660.38,Success
+6174,2174,Credit Card,1134.8,Success
+6175,2175,Debit Card,247.93,Success
+6176,2176,UPI,1915.35,Success
+6177,2177,Cash,569.23,Success
+6178,2178,Credit Card,1733.33,Success
+6179,2179,Cash,420.74,Success
+6180,2180,Cash,1722.49,Success
+6181,2181,Cash,125.13,Success
+6182,2182,UPI,1072.38,Success
+6183,2183,Cash,1561.94,Success
+6184,2184,Cash,1876.11,Success
+6185,2185,Debit Card,1827.48,Success
+6186,2186,UPI,1657.29,Success
+6187,2187,Credit Card,1787.56,Success
+6188,2188,Credit Card,478.52,Success
+6189,2189,Credit Card,639.95,Success
+6190,2190,UPI,649.04,Success
+6191,2191,Credit Card,816.4,Success
+6192,2192,UPI,847.31,Failed
+6193,2193,Debit Card,1134.66,Failed
+6194,2194,Debit Card,403.77,Success
+6195,2195,UPI,1413.37,Success
+6196,2196,Credit Card,418.38,Success
+6197,2197,UPI,689.59,Success
+6198,2198,UPI,1056.36,Success
+6199,2199,Cash,1613.24,Success
+6200,2200,UPI,1504.99,Success
+6201,2201,Cash,1326.52,Success
+6202,2202,Debit Card,395.97,Success
+6203,2203,Cash,1139.39,Success
+6204,2204,UPI,266.15,Success
+6205,2205,Debit Card,816.99,Success
+6206,2206,Cash,885.68,Success
+6207,2207,UPI,175.64,Success
+6208,2208,Debit Card,620.58,Failed
+6209,2209,Cash,1915.73,Success
+6210,2210,UPI,1911.9,Success
+6211,2211,UPI,769.42,Success
+6212,2212,Credit Card,181.89,Success
+6213,2213,Credit Card,440.28,Success
+6214,2214,Cash,845.21,Success
+6215,2215,Cash,1900.78,Success
+6216,2216,Cash,368.28,Success
+6217,2217,UPI,1550.68,Success
+6218,2218,Cash,306.5,Success
+6219,2219,UPI,1964.39,Success
+6220,2220,Cash,825.07,Success
+6221,2221,UPI,1572.95,Success
+6222,2222,UPI,750.92,Success
+6223,2223,Credit Card,1292.57,Success
+6224,2224,Debit Card,464.83,Success
+6225,2225,UPI,377.44,Success
+6226,2226,Cash,1882.32,Success
+6227,2227,Credit Card,1843.53,Success
+6228,2228,Cash,1786.19,Success
+6229,2229,Cash,1288.32,Success
+6230,2230,UPI,1635.71,Success
+6231,2231,UPI,231.17,Success
+6232,2232,Debit Card,736.1,Failed
+6233,2233,UPI,696.04,Success
+6234,2234,UPI,1307.73,Success
+6235,2235,Debit Card,776.32,Success
+6236,2236,Cash,382.16,Success
+6237,2237,Debit Card,1233.29,Success
+6238,2238,Debit Card,1647.33,Success
+6239,2239,Debit Card,826.03,Success
+6240,2240,Credit Card,351.31,Success
+6241,2241,Cash,473.71,Success
+6242,2242,Credit Card,551.22,Success
+6243,2243,Credit Card,669.81,Success
+6244,2244,UPI,1321.31,Success
+6245,2245,Debit Card,1241.8,Success
+6246,2246,Debit Card,1422.55,Success
+6247,2247,Credit Card,788.75,Success
+6248,2248,UPI,1665.6,Success
+6249,2249,UPI,487.77,Success
+6250,2250,UPI,991.18,Success
+6251,2251,Cash,1621.78,Failed
+6252,2252,Credit Card,442.3,Success
+6253,2253,Cash,308.74,Success
+6254,2254,UPI,1779.0,Success
+6255,2255,UPI,751.57,Success
+6256,2256,UPI,1399.35,Success
+6257,2257,Debit Card,148.16,Success
+6258,2258,Credit Card,1411.09,Success
+6259,2259,Debit Card,700.59,Success
+6260,2260,Cash,205.91,Failed
+6261,2261,Debit Card,1258.64,Success
+6262,2262,Credit Card,557.53,Success
+6263,2263,Debit Card,834.93,Success
+6264,2264,UPI,253.1,Failed
+6265,2265,Cash,379.61,Success
+6266,2266,Cash,666.16,Success
+6267,2267,UPI,270.54,Success
+6268,2268,UPI,1830.57,Success
+6269,2269,UPI,111.49,Success
+6270,2270,Credit Card,1019.33,Success
+6271,2271,Debit Card,334.17,Success
+6272,2272,Cash,684.59,Success
+6273,2273,Debit Card,1859.51,Success
+6274,2274,UPI,407.22,Failed
+6275,2275,UPI,1935.08,Success
+6276,2276,Debit Card,491.01,Success
+6277,2277,Cash,1508.98,Success
+6278,2278,Credit Card,1138.69,Success
+6279,2279,Debit Card,1780.51,Success
+6280,2280,UPI,1152.59,Success
+6281,2281,UPI,1115.66,Success
+6282,2282,Credit Card,471.37,Success
+6283,2283,Debit Card,415.84,Success
+6284,2284,Credit Card,1841.33,Success
+6285,2285,Credit Card,722.89,Success
+6286,2286,Cash,806.96,Success
+6287,2287,Cash,1543.66,Success
+6288,2288,UPI,743.76,Success
+6289,2289,Debit Card,1908.92,Success
+6290,2290,Cash,1502.06,Success
+6291,2291,UPI,1235.12,Success
+6292,2292,Debit Card,1773.7,Success
+6293,2293,UPI,194.25,Success
+6294,2294,Cash,588.42,Success
+6295,2295,UPI,983.57,Success
+6296,2296,Debit Card,531.26,Success
+6297,2297,Debit Card,1513.42,Success
+6298,2298,UPI,1846.5,Success
+6299,2299,Debit Card,905.16,Success
+6300,2300,UPI,750.05,Failed
+6301,2301,Debit Card,1926.95,Success
+6302,2302,UPI,945.22,Failed
+6303,2303,UPI,1029.19,Success
+6304,2304,UPI,768.13,Success
+6305,2305,Credit Card,1828.14,Success
+6306,2306,Debit Card,1181.02,Success
+6307,2307,Cash,1548.13,Success
+6308,2308,UPI,1642.43,Success
+6309,2309,Credit Card,749.51,Success
+6310,2310,Cash,924.02,Success
+6311,2311,UPI,1712.1,Success
+6312,2312,Cash,790.19,Success
+6313,2313,Credit Card,1608.48,Success
+6314,2314,Cash,1887.89,Success
+6315,2315,UPI,1284.1,Success
+6316,2316,Cash,1509.09,Success
+6317,2317,Cash,1629.68,Success
+6318,2318,UPI,1705.58,Success
+6319,2319,Credit Card,850.6,Success
+6320,2320,Credit Card,197.4,Success
+6321,2321,Cash,863.56,Success
+6322,2322,Debit Card,1380.14,Success
+6323,2323,Cash,955.67,Success
+6324,2324,Debit Card,1523.03,Success
+6325,2325,Cash,778.27,Success
+6326,2326,Credit Card,1306.01,Success
+6327,2327,Cash,454.2,Success
+6328,2328,Cash,1523.8,Failed
+6329,2329,Debit Card,1136.82,Success
+6330,2330,Credit Card,487.72,Success
+6331,2331,Debit Card,654.63,Success
+6332,2332,Cash,1522.36,Success
+6333,2333,UPI,1016.94,Success
+6334,2334,Cash,510.46,Success
+6335,2335,Cash,1937.82,Success
+6336,2336,Debit Card,1458.74,Success
+6337,2337,UPI,1918.56,Success
+6338,2338,UPI,911.5,Success
+6339,2339,Debit Card,1002.69,Success
+6340,2340,Credit Card,1806.11,Success
+6341,2341,UPI,1097.59,Success
+6342,2342,UPI,1443.83,Success
+6343,2343,Debit Card,579.13,Success
+6344,2344,Credit Card,948.78,Success
+6345,2345,Credit Card,334.55,Success
+6346,2346,Cash,491.36,Success
+6347,2347,Cash,101.79,Success
+6348,2348,Debit Card,174.6,Success
+6349,2349,Credit Card,1956.84,Success
+6350,2350,Debit Card,560.47,Success
+6351,2351,Cash,1360.29,Success
+6352,2352,Debit Card,1694.29,Failed
+6353,2353,Debit Card,1146.25,Success
+6354,2354,UPI,390.97,Success
+6355,2355,UPI,1483.42,Success
+6356,2356,UPI,1240.48,Success
+6357,2357,Cash,1489.38,Success
+6358,2358,Debit Card,1562.52,Success
+6359,2359,UPI,1953.28,Success
+6360,2360,UPI,1189.77,Success
+6361,2361,UPI,749.12,Success
+6362,2362,Cash,1332.08,Success
+6363,2363,Cash,230.04,Success
+6364,2364,Debit Card,1805.05,Success
+6365,2365,Debit Card,326.82,Success
+6366,2366,Debit Card,722.9,Success
+6367,2367,UPI,1649.92,Success
+6368,2368,Credit Card,1234.89,Success
+6369,2369,Cash,847.91,Success
+6370,2370,UPI,999.53,Success
+6371,2371,UPI,1723.64,Success
+6372,2372,Debit Card,746.01,Success
+6373,2373,Debit Card,1752.33,Success
+6374,2374,UPI,267.46,Success
+6375,2375,Cash,1575.92,Success
+6376,2376,Cash,1710.34,Success
+6377,2377,UPI,445.45,Success
+6378,2378,Credit Card,917.66,Success
+6379,2379,Credit Card,414.45,Success
+6380,2380,Cash,1442.55,Success
+6381,2381,Debit Card,1117.16,Success
+6382,2382,Credit Card,1307.11,Success
+6383,2383,Credit Card,473.33,Success
+6384,2384,Debit Card,502.32,Success
+6385,2385,Credit Card,178.84,Success
+6386,2386,UPI,711.93,Success
+6387,2387,Credit Card,1163.51,Failed
+6388,2388,Debit Card,1730.08,Success
+6389,2389,UPI,1367.16,Success
+6390,2390,Credit Card,927.25,Success
+6391,2391,Cash,1910.93,Success
+6392,2392,UPI,1466.57,Success
+6393,2393,UPI,1867.31,Success
+6394,2394,Cash,1102.42,Success
+6395,2395,Cash,591.92,Success
+6396,2396,Credit Card,200.37,Success
+6397,2397,Credit Card,1479.56,Success
+6398,2398,Debit Card,330.48,Success
+6399,2399,Debit Card,675.27,Success
+6400,2400,UPI,1111.69,Failed
+6401,2401,Cash,1172.39,Success
+6402,2402,Cash,1241.11,Success
+6403,2403,Debit Card,415.89,Failed
+6404,2404,UPI,821.5,Success
+6405,2405,UPI,1272.67,Success
+6406,2406,Debit Card,1942.66,Success
+6407,2407,Debit Card,1482.5,Success
+6408,2408,Debit Card,1852.95,Success
+6409,2409,Credit Card,1548.2,Failed
+6410,2410,UPI,1224.26,Success
+6411,2411,UPI,464.84,Success
+6412,2412,UPI,1366.7,Success
+6413,2413,Debit Card,1284.42,Success
+6414,2414,Debit Card,1244.69,Success
+6415,2415,Debit Card,1030.59,Success
+6416,2416,Debit Card,1104.45,Success
+6417,2417,Cash,735.44,Success
+6418,2418,Debit Card,1086.69,Success
+6419,2419,Credit Card,475.36,Success
+6420,2420,Cash,1629.83,Success
+6421,2421,Cash,452.98,Success
+6422,2422,Debit Card,261.44,Success
+6423,2423,UPI,928.87,Success
+6424,2424,Debit Card,1350.78,Success
+6425,2425,UPI,931.66,Success
+6426,2426,Debit Card,625.83,Success
+6427,2427,Debit Card,1160.53,Success
+6428,2428,UPI,759.3,Success
+6429,2429,UPI,1872.45,Success
+6430,2430,UPI,1853.03,Success
+6431,2431,UPI,1054.51,Success
+6432,2432,Credit Card,722.98,Success
+6433,2433,UPI,1500.55,Success
+6434,2434,Debit Card,169.75,Success
+6435,2435,Debit Card,1002.06,Success
+6436,2436,Credit Card,739.01,Success
+6437,2437,UPI,1849.02,Success
+6438,2438,Debit Card,122.81,Success
+6439,2439,Credit Card,1150.35,Failed
+6440,2440,Debit Card,1507.26,Success
+6441,2441,Credit Card,1021.53,Success
+6442,2442,Credit Card,262.27,Success
+6443,2443,Cash,1947.68,Success
+6444,2444,Cash,1084.22,Success
+6445,2445,UPI,1266.95,Success
+6446,2446,Cash,549.56,Success
+6447,2447,Credit Card,1018.65,Success
+6448,2448,Debit Card,915.38,Success
+6449,2449,Debit Card,242.3,Success
+6450,2450,UPI,301.7,Success
+6451,2451,Cash,1691.2,Success
+6452,2452,UPI,555.66,Success
+6453,2453,Credit Card,470.42,Success
+6454,2454,Cash,1059.33,Success
+6455,2455,UPI,1560.62,Success
+6456,2456,Debit Card,217.7,Success
+6457,2457,Debit Card,1195.94,Success
+6458,2458,UPI,326.5,Success
+6459,2459,UPI,169.28,Success
+6460,2460,UPI,200.21,Success
+6461,2461,Credit Card,1684.91,Success
+6462,2462,Credit Card,324.15,Failed
+6463,2463,Debit Card,185.79,Failed
+6464,2464,Credit Card,932.01,Success
+6465,2465,Credit Card,1703.59,Success
+6466,2466,Cash,598.58,Success
+6467,2467,Credit Card,901.25,Success
+6468,2468,Cash,175.85,Success
+6469,2469,Credit Card,953.25,Success
+6470,2470,Debit Card,1197.46,Success
+6471,2471,UPI,1184.72,Success
+6472,2472,Debit Card,731.61,Success
+6473,2473,Credit Card,699.51,Success
+6474,2474,UPI,302.58,Success
+6475,2475,UPI,796.92,Success
+6476,2476,UPI,289.04,Success
+6477,2477,Cash,1556.53,Success
+6478,2478,Debit Card,1935.92,Success
+6479,2479,Cash,1943.14,Success
+6480,2480,UPI,1743.64,Success
+6481,2481,Debit Card,1241.51,Success
+6482,2482,Debit Card,1431.64,Success
+6483,2483,Credit Card,641.89,Success
+6484,2484,Cash,1298.46,Success
+6485,2485,Cash,965.73,Success
+6486,2486,Credit Card,1015.83,Success
+6487,2487,Cash,1539.78,Failed
+6488,2488,UPI,635.64,Success
+6489,2489,UPI,704.28,Failed
+6490,2490,Cash,1856.82,Success
+6491,2491,Credit Card,206.83,Success
+6492,2492,Debit Card,1022.71,Success
+6493,2493,Cash,1834.32,Success
+6494,2494,Debit Card,1259.69,Success
+6495,2495,Credit Card,1138.17,Success
+6496,2496,Debit Card,574.51,Success
+6497,2497,Credit Card,752.22,Success
+6498,2498,Credit Card,1718.89,Success
+6499,2499,UPI,1162.51,Success
+6500,2500,UPI,1078.01,Success
