@@ -1,35 +1,53 @@
 # Food Delivery Data Engineering Project
 
 ## Project Overview
-An end-to-end Food Delivery Data Engineering Pipeline built using Python, PostgreSQL, SQL, and Power BI.
+An end-to-end Food Delivery Data Engineering project that processes raw food delivery data, performs data quality validation, transforms data into structured layers, loads data into PostgreSQL, and visualizes business insights using Power BI.
 
-## Technologies Used
+## Technology Stack
 - Python
 - Pandas
 - NumPy
 - PostgreSQL
 - SQL
 - Power BI
+- Git & GitHub
 
-## Project Features
-- Data Generation and Processing
-- Data Quality Validation
-- Missing Value and Duplicate Checks
-- Silver Data Layer
-- Quarantine Data Layer
-- PostgreSQL Data Loading
-- SQL Business Analytics
-- Interactive Power BI Dashboard
+## Project Workflow
+1. Raw data generation and ingestion
+2. Data quality validation
+3. Data cleaning and transformation
+4. Silver and Quarantine layer creation
+5. Loading transformed data into PostgreSQL
+6. SQL-based business analysis
+7. Interactive Power BI dashboard
 
-## Business Analytics
+## Key Business Insights
 - Daily Sales Analysis
 - City-wise Revenue Analysis
-- Order Status Analysis
+- Order Status Distribution
 - Monthly Sales Analysis
 - Average Order Value
+- Top Revenue City
 
-## Dashboard
-The Power BI dashboard provides insights into revenue, total orders, average order value, city-wise performance, daily sales trends, and order status.
+## Project Structure
+```text
+Food_Delivery_Data_Engineering/
+├── data/
+├── src/
+├── requirements.txt
+├── README.md
+└── Food_Delivery_Analytics.pbix
+```
 
-## Project Objective
-To demonstrate an end-to-end data engineering workflow, from raw data processing to database storage and business intelligence reporting.
+## How to Run
+1. Clone this repository.
+2. Install dependencies:
+   `pip install -r requirements.txt`
+3. Configure PostgreSQL credentials.
+4. Run the Python scripts from the `src` folder.
+5. Open the Power BI dashboard.
+
+## Author
+Vaishnavi Bhongale
+
+Computer Science Graduate | Aspiring Data Engineer
