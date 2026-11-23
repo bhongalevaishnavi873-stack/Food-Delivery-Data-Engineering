@@ -51,3 +51,7 @@ Food_Delivery_Data_Engineering/
 Vaishnavi Bhongale
 
 Computer Science Graduate | Aspiring Data Engineer
+
+
+## Power BI Dashboard
+![Food Delivery Dashboard](dashboard.png)
